@@ -1,3 +1,3 @@
 # Pig Game
 
-Check it out at => https://stupid-pig-game.netlify.app/
+Check out the [Live Demo](https://stupid-pig-game.netlify.app/)
